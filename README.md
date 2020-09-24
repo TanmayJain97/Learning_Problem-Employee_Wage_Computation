@@ -1,2 +1,2 @@
-# Learning_Problem-Employee_Wage_Computation \n
+# Learning_Problem-Employee_Wage_Computation
 # 6 Cases
